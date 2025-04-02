@@ -33,9 +33,9 @@
 ###
 
 <div align="left">
-  <link href="https://www.linkedin.com/in/fernando-guzm%C3%A1n-fiorillo-18177b313?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNCJqhGFMR5i0HFM4rpcLFg%3D%3D" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </link>
+  <a href="https://www.linkedin.com/in/fernando-guzm%C3%A1n-fiorillo-18177b313?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNCJqhGFMR5i0HFM4rpcLFg%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
